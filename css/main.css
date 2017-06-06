@@ -1,0 +1,19 @@
+body,html{
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#div{
+    height: 100%;
+    width: 100%;
+    background: radial-gradient(pink, purple);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     
+}
+#imagenInicio{
+    width: 30%;
+    height: 13%;    
+}
